@@ -1,0 +1,17 @@
+C:\Users\samiul\Desktop\SWIM-ER Controlar\SWIM-ER Controlar\bin\Debug\SWIM-ER Controlar.exe
+C:\Users\samiul\Desktop\SWIM-ER Controlar\SWIM-ER Controlar\bin\Debug\SWIM-ER Controlar.pdb
+C:\Users\samiul\Desktop\SWIM-ER Controlar\SWIM-ER Controlar\obj\Debug\SWIM-ER Controlar.csprojResolveAssemblyReference.cache
+C:\Users\samiul\Desktop\SWIM-ER Controlar\SWIM-ER Controlar\obj\Debug\SWIM_ER_Controlar.Properties.Resources.resources
+C:\Users\samiul\Desktop\SWIM-ER Controlar\SWIM-ER Controlar\obj\Debug\SWIM-ER Controlar.csproj.GenerateResource.Cache
+C:\Users\samiul\Desktop\SWIM-ER Controlar\SWIM-ER Controlar\obj\Debug\SWIM-ER Controlar.exe
+C:\Users\samiul\Desktop\SWIM-ER Controlar\SWIM-ER Controlar\obj\Debug\SWIM-ER Controlar.pdb
+C:\Users\samiu\OneDrive\SWIM-ER(NEW)\SWIM-ER Controlar\SWIM-ER Controlar\bin\Debug\SWIM-ER Controlar.exe.config
+C:\Users\samiu\OneDrive\SWIM-ER(NEW)\SWIM-ER Controlar\SWIM-ER Controlar\bin\Debug\SWIM-ER Controlar.exe
+C:\Users\samiu\OneDrive\SWIM-ER(NEW)\SWIM-ER Controlar\SWIM-ER Controlar\bin\Debug\SWIM-ER Controlar.pdb
+C:\Users\samiu\OneDrive\SWIM-ER(NEW)\SWIM-ER Controlar\SWIM-ER Controlar\obj\Debug\SWIM-ER Controlar.csprojResolveAssemblyReference.cache
+C:\Users\samiu\OneDrive\SWIM-ER(NEW)\SWIM-ER Controlar\SWIM-ER Controlar\obj\Debug\SWIM_ER_Controlar.Form1.resources
+C:\Users\samiu\OneDrive\SWIM-ER(NEW)\SWIM-ER Controlar\SWIM-ER Controlar\obj\Debug\SWIM_ER_Controlar.Properties.Resources.resources
+C:\Users\samiu\OneDrive\SWIM-ER(NEW)\SWIM-ER Controlar\SWIM-ER Controlar\obj\Debug\SWIM-ER Controlar.csproj.GenerateResource.cache
+C:\Users\samiu\OneDrive\SWIM-ER(NEW)\SWIM-ER Controlar\SWIM-ER Controlar\obj\Debug\SWIM-ER Controlar.csproj.CoreCompileInputs.cache
+C:\Users\samiu\OneDrive\SWIM-ER(NEW)\SWIM-ER Controlar\SWIM-ER Controlar\obj\Debug\SWIM-ER Controlar.exe
+C:\Users\samiu\OneDrive\SWIM-ER(NEW)\SWIM-ER Controlar\SWIM-ER Controlar\obj\Debug\SWIM-ER Controlar.pdb
